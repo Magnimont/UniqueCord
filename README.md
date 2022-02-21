@@ -4,8 +4,8 @@
   <a href="https://unique-cord.netlify.app/docs" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://www.youtube.com/channel/UC61eXKDPxuQot7ojsijLPMg/featured" target="_blank">
-    <img alt="Youtube: NoError" src="https://img.shields.io/Youtube/MashimaHeros.svg?style=social" />
+https://img.shields.io/youtube/channel/views/UC61eXKDPxuQot7ojsijLPMg?style=social
+
   </a>
 </p>
 
