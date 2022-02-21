@@ -27,14 +27,14 @@ python main.py
 
 ## Authors
 
-👤 **Saizuo **
+👤 **Saizuo**
 
 * Website: https://noerror.studio
 * Twitter: [@MashimaHeros](https://twitter.com/MashimaHeros)
 * Github: [@Saizuo](https://github.com/Saizuo)
 
 
-👤 **GoViper **
+👤 **GoViper**
 
 * Github: [@Saizuo](https://github.com/GO-viper7)
 
