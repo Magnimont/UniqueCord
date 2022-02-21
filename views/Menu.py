@@ -4,7 +4,7 @@ from discord.colour import Colour
 import datetime
 from pymongo import MongoClient
 
-cluster=MongoClient("mongodb+srv://GoViper:GoViper#123@unique--cord.hmhy6.mongodb.net/test?retryWrites=true&w=majority")
+cluster=MongoClient("")
                 
 db=cluster["test"]
 collections=db["test"]
