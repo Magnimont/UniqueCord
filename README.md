@@ -16,7 +16,7 @@
 
   Replit |
 |---|
-| [![Run on Repl.it](https://replit.com/Saizuo/UniqueCord)](https://replit.com/@Saizuo/UniqueCord) 
+| [![Run on Repl.it](https://repl.it/badge/github/igorkowalczyk/majo.exe)](https://replit.com/@Saizuo/UniqueCord) 
 
 ## Install
 
