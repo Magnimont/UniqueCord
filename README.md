@@ -36,7 +36,7 @@ python main.py
 
 👤 **GoViper**
 
-* Github: [@Saizuo](https://github.com/GO-viper7)
+* Github: [@GoViper](https://github.com/GO-viper7)
 
 ## Show your support
 
