@@ -4,7 +4,7 @@
   <a href="https://unique-cord.netlify.app/docs" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-https://img.shields.io/youtube/channel/views/UC61eXKDPxuQot7ojsijLPMg?style=social
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC61eXKDPxuQot7ojsijLPMg?style=social">
 
   </a>
 </p>
