@@ -16,7 +16,7 @@
 
   Replit |
 |---|
-| [![Run on Repl.it](https://replit.com/@Saizuo/UniqueCord)](https://replit.com/@Saizuo/UniqueCord) 
+| [![Run on Repl.it](https://replit.com/Saizuo/UniqueCord)](https://replit.com/@Saizuo/UniqueCord) 
 
 ## Install
 
