@@ -5,6 +5,7 @@
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC61eXKDPxuQot7ojsijLPMg?style=social">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC61eXKDPxuQot7ojsijLPMg?style=social">
 
   </a>
 </p>
@@ -12,6 +13,10 @@
 > UniqueCord is an open Source Multipurpose Bot Written In discord.py and Other usefull libs, The aim of the project is to Help Collab other devs On it and Get People a Self Hosted Version On Their Servers.
 
 ### 🏠 [Homepage](https://unique-cord.netlify.app)
+
+  Replit |
+|---|
+| [![Run on Repl.it](https://replit.com/@Saizuo/UniqueCord)](https://replit.com/@Saizuo/UniqueCord) 
 
 ## Install
 
